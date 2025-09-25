@@ -36,7 +36,7 @@ const AirQuality = () => {
         <CardHeader className="pb-2 bg-blue-50 border-b border-blue-100">
           <CardTitle className="text-xl flex items-center">
             <Wind className="h-5 w-5 mr-2 text-blue-500" />
-            Air Quality Index
+            Air Quality
           </CardTitle>
         </CardHeader>
         <CardContent className="p-6">
